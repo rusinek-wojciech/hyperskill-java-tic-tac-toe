@@ -1,4 +1,4 @@
-package org.ikinsure.easy.tictactoe;
+package org.ikinsure.tictactoe;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
